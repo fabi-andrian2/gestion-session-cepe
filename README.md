@@ -6,7 +6,7 @@ Elle permet de centraliser la gestion des établissements, des candidats, la sai
 
 ---
 
-## 🚀 Fonctionnalités Principales
+## ✅ Fonctionnalités Principales
 
 * **Résultats & Délibération :**
   * Calcul dynamique des moyennes générales avec coefficients.
