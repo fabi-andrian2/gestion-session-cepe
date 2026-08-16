@@ -1,0 +1,14 @@
+# Compilation Java & Maven
+target/
+*.class
+
+# Fichiers d'IDE / Configuration locale
+.vscode/
+.idea/
+*.iml
+*.settings/
+.classpath
+.project
+
+# Fichiers de configuration sensibles ou locaux (si applicable)
+# src/main/resources/db.properties
