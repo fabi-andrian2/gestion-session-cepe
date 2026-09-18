@@ -1,4 +1,4 @@
-# Gestion Session CEPE — Madagascar
+# Gestion Session CEPE - Madagascar
 
 Application de gestion et de délibération des examens du CEPE (Certificat d'Études Primaires Élémentaires) développée en Java Swing et PostgreSQL.
 
